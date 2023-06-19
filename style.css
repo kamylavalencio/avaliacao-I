@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+
+}
+
+.container {
+    display: flex;
+    
+}
+
+.texto {
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+}
+
+.imagem {
+    flex: 1;
+    text-align: center;
+    padding: 100px;
+}
+ 
